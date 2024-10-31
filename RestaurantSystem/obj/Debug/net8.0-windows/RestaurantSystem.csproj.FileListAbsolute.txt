@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Customers.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Dashboard.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Login.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Menus.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Orders.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.Reservations.resources
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.AssemblyInfo.cs
+C:\Users\USER\source\repos\RestaurantSystem\RestaurantSystem\obj\Debug\net8.0-windows\RestaurantSystem.csproj.CoreCompileInputs.cache
